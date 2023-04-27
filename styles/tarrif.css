@@ -1,0 +1,70 @@
+.tariff{
+    margin-top: 100px;
+    background-color: #FEC200;
+    border-radius: 126px;
+}
+
+#tariff__title{
+    padding-top: 100px;
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 49px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+.tariff__title-white{
+    color: #fff;
+}
+
+.tariff__content{
+    display: flex;
+    margin-top: 30px;
+}
+
+#tariff__content-list{
+    color:#00190C;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 28px;
+    width: 445px;
+    margin-left: 15px;
+}
+
+#tariff__content-list li{
+    margin-bottom: 30px;
+}
+#tariff__content-price{
+    font-size: 42px;
+    font-weight: 900;
+    line-height: 22px;
+    margin-left: 65px;
+
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.tariff__content-button{
+    margin-top: 10px;
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: center;
+
+    padding: 33px 14px;
+    background: #FFFFFF;
+    border-radius: 17px;
+    text-transform: uppercase;
+    
+    cursor: pointer;
+}
+
+#tariff__first-image{
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 377px;
+    height: 459px;
+
+    
+}

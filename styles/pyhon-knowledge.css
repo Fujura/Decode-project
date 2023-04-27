@@ -1,0 +1,62 @@
+.python-knowledge{
+    text-align: center;
+}
+
+#python-knowledge__first-line{
+    font-size: 70px;
+    line-height: 70px;
+    font-weight: 900;
+
+    text-transform: uppercase;
+    color: #F9CC0D;
+}
+
+#python-knowledge__title{
+    margin-top: 200px;
+}
+
+#python-knowledge__second-line{
+
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 900;
+
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.python-knowledge__list{
+    font-size: 23px;
+    line-height: 22px;
+    font-weight: 400;
+
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+
+
+.python-knowledge ul{
+    padding: 85px 0;
+    text-align: start;
+    display: inline-block;
+}
+
+#python-knowledge__third-line{
+    font-size: 40.2px;
+    line-height: 40px;
+    font-weight: 900;
+
+    color: #fff;
+    text-transform: uppercase;
+}
+
+#python-knowledge__fourth-line{
+    font-size: 76px;
+    line-height: 76px;
+    font-weight: 900;
+    
+    color: #F9CC0D;
+    text-transform: uppercase;
+}

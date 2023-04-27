@@ -1,0 +1,31 @@
+#footer{
+    margin-top: 200px;
+    padding: 50px 142px;
+    
+    display: flex;
+    background-color: #FDCF09;
+
+}
+
+.icons{
+    padding: 3px;
+    background: #00190C;
+    border-radius: 8px;
+    width: 32px;
+    height: 32px;
+    margin: 0 5px;
+}
+
+#decode-logo{
+    margin-left: 0;
+    width: 140px;
+    height: 28px;
+}
+
+#footer-social-media{
+    margin-left: 70%;
+}
+
+#footer-social-media a{
+    text-decoration: none;
+}

@@ -1,0 +1,49 @@
+.about-marathon__content{
+    display: flex;
+
+    align-items: center;
+    padding-top: 71px;
+}
+
+.about-marathon__image{
+    margin-left: 278px;
+    margin-right: -280px;
+}
+
+#image-triangle{
+    position: relative;
+    left: -47.5px;
+    top: -25px;
+}
+
+#about-marathon__title{
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 32px;
+    font-size: 34px;
+    color: #fff;
+}
+
+#about-marathon__yellow{
+    color: #FEC200;
+}
+
+#about-marahon__button{
+    display: flex;
+    justify-content: center;
+
+    width: 420px;
+    margin-top: 60px;
+    padding: 28px 49px;
+
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 40px;
+
+    text-transform: uppercase;
+    text-decoration: none;
+
+    background-color: #FEC200;
+    color: #fff;
+    border-radius: 17px;
+}

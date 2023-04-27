@@ -1,0 +1,67 @@
+.marathon-ending{
+    margin-top: 100px;
+}
+
+#marathon-ending__title{
+    font-size: 58px;
+    font-weight: 900;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.marathon-ending__title-yellow{
+    color: #FDCF09;
+}
+
+#marathon-ending__text{
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 29px;
+    text-align: center;
+
+    color: #fff;
+    margin-top: 20px;
+
+}
+
+.marathon-ending__images{
+    position: relative;
+
+}
+#certificate-2, #certificate-3, #certificate-4{
+    position: absolute;
+    top: 0;
+    left: 350px;
+    z-index: 1;
+
+}
+
+#certificate-1{
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    margin-top: 80px;
+    z-index: 2;
+
+}
+
+
+#certificate-2{
+    transform: rotate(2deg);
+}
+
+#certificate-3{
+    transform: rotate(3deg);
+}
+
+#certificate-4{
+    transform: rotate(4deg);
+    background: rgba(255, 196, 1, 0.875);
+    filter: blur(133px);
+    
+}
+

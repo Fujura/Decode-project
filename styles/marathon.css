@@ -1,0 +1,60 @@
+.marathon{
+    margin-top: 200px;
+}
+
+.marathon__title{
+    font-weight: 900;
+    font-size: 55.6px;
+    line-height: 50px;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#marathon__title-yellow{
+    color: #FEC200;
+}
+
+.second-swiper{
+    display: flex;
+    margin-top: 65px;
+}
+
+.marathon__content-block{
+    position: relative;
+    background: #FEC200;
+    border: 6px solid #FFFFFF;
+    box-shadow: inset 0px 4px 30px rgba(138, 138, 138, 0.35);
+    border-radius: 80px;
+    max-width: 386px;
+    height: 256px;
+    text-align: center;
+    margin-left: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.marathon__content-block-num{
+    position: absolute;
+    top: -10px;
+    left: 120px;
+    font-size: 260px;
+    line-height: 286px;
+    font-weight: 500;
+    color: #00190C1A;
+    user-select: none;
+    
+
+}
+
+.marathon__content-block-text{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    width: 350px;
+}
+
+.first-num{
+    left: 140px;
+}

@@ -1,0 +1,42 @@
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    background-color: #001A0C;
+    height: 94px;
+}
+
+#header__logo{
+    margin-left: 144px;
+}
+
+#header__button{
+
+
+
+    padding: 12px 23px;
+    
+    height: 46px;
+    width: 133px;
+    border-radius: 12px;
+    padding: 12px 23px;
+    gap: 10px;
+
+
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+    text-align: center;
+    text-decoration: none;
+    color: #001A0C;
+    background-color: #FDCF09;
+
+    margin-right: 144px;
+}
+
+
